@@ -1,6 +1,6 @@
 # Set-up-and-Configure-a-Cloud-Environment-in-Google-Cloud-Challenge-Lab-
 
-Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab (qwiklabs)
+Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab (qwiklabs).
 
 Task 1: Create development VPC manually
 Task 2: Create production VPC using Deployment Manager
